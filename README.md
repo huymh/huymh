@@ -3,7 +3,7 @@ Hi, my name is Huy. I'm a new grad who's an aspiring data analyst and scientist.
 
 ## 📘 Projects
 I'm constantly expanding my skills, knowledge, and analytical capabilities through relevant projects.
-- Take a look at my portfolio!
+- Take a look at my [portfolio](https://github.com/huymh/Portfolio/tree/main)!
 
 ## 🛠 Tools
 - Languages : Python, SQL, R, LaTeX
