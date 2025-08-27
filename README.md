@@ -2,8 +2,8 @@
 Hi, my name is Huy. I'm a new grad who's an aspiring data analyst and scientist. I believe in the power of analytics to uncover insights, drive innovation, and create positive impacts for organizations and the communities they serve. With an educational background in applied mathematics and statistics, I'm looking to apply my knowledge and further my skills and experience through data.
 
 ## 📘 Projects
-I'm constantly expanding my skills, knowledge, and analytical capabilities through relevant projects.
-- Take a look at my [portfolio](https://github.com/huymh/Portfolio/tree/main)!
+I'm constantly learning new skills, deepining my knowledge, and improving my analytical capabilities through relevant projects.
+- Take a look at the projects in my [portfolio](https://github.com/huymh/Portfolio/tree/main)!
 
 ## 🛠 Tools
 - Languages : Python, SQL, R, LaTeX
