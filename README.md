@@ -8,7 +8,7 @@ I'm constantly learning new skills, deepining my knowledge, and improving my ana
 ## 🛠 Tools
 - Languages : Python, SQL, R, LaTeX
 - Databases : Microsoft SQL Server, PostgreSQL
-- Visualization : Power BI, Tableau
+- Visualization Tools : Power BI, Tableau
 
 ## 📫 Connect with Me
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huy-m-hong/)
