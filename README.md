@@ -13,10 +13,6 @@ I'm constantly expanding my skills, knowledge, and analytical capabilities throu
 ## 📫 Connect with Me
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huy-m-hong/)
 
-<a href="https://www.linkedin.com/in/huy-m-hong/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
 <!--
 **huymh/huymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
